@@ -1,4 +1,4 @@
-<h1 align="center">Special Price</h1>
+<h1 align="center">PluggTo Shipping</h1>
 
 <div align="center">
   <img src="https://github.com/tezusecommerce/Tezus_Suporte/blob/main/logo.png">
